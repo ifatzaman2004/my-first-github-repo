@@ -2,4 +2,9 @@ div{
     background-color: tomato;
     background-position: 400px;
     padding: 30px;
+    margin: 5px;
+    border: 30px;
+    border-radius: 3px;
+    font-weight: bold;
 }
+h2{color: aqua;}
